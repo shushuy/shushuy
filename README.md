@@ -1,5 +1,4 @@
 <p>
-  <h3>shushuy.com</h3>
   <a href="https://shushuy.com"><img src="assets/miguelGarciaBig.png"/></a>
 </p>
 
