@@ -26,13 +26,15 @@ With a strong background in mobile app and web development, I've spent the last 
 <p>
   <h3>Get in touch 🤝🏻</h3>
   <a href="mailto:sshushuy@gmail.com?subject=[GitHub]%20🔥%20profile%20contact&body=Hello"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/shushuy/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/shushuy/" target="_blank"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 <p >
   <h3>
-   <a href="https://shushuy.com">
+   <a href="https://shushuy.com" target="_blank">
     shushuy.com
    </a>
   </h3>
-    <a href="https://shushuy.com"><img src="assets/logo512.png" width="50" height="60"/></a>
+    <a href="https://shushuy.com" target="_blank">
+      <img src="assets/logo512.png" width="50" height="50"/>
+    </a>
 </p>
