@@ -1,16 +1,38 @@
-### Hi there 👋
+<p>
+  <h3>shushuy.com</h3>
+  <a href="https://shushuy.com"><img src="assets/miguelGarciaBig.png"/></a>
+</p>
 
-<!--
-**shushuy/shushuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a dedicated Software Engineer with over 10 years of experience in crafting accessible and inclusive products and digital experiences for both mobile and web platforms.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+With a strong background in mobile app and web development, I've spent the last 6 years focusing on creating solutions for companies in a range of industries including healthcare, consulting, retail, business networks, and government. I've had the privilege of collaborating with startups and big businesses across the US, Canada, and Latin America, helping them achieve their technological goals.
+
+## Specializations
+
+- **JavaScript**
+- **TypeScript**
+- **React JS**
+- **React Native**
+- **MySQL**
+- **CSS**
+- **Bootstrap**
+- **Azure DevOps**
+- **Circle CI**
+- **Firebase**
+- **Jest**
+<br />
+<p>
+  <h3>Get in touch 🤝🏻</h3>
+  <a href="mailto:sshushuy@gmail.com?subject=[GitHub]%20🔥%20profile%20contact&body=Hello"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/shushuy/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+<p >
+  <h3>
+   <a href="https://shushuy.com">
+    shushuy.com
+   </a>
+  </h3>
+    <a href="https://shushuy.com"><img src="assets/logo512.png" width="50" height="60"/></a>
+</p>
