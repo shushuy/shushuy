@@ -2,11 +2,13 @@
   <a href="https://shushuy.com"><img src="assets/miguelGarciaBig.png"/></a>
 </p>
 
-I'm a dedicated Software Engineer with over 10 years of experience in crafting accessible and inclusive products and digital experiences for both mobile and web platforms.
+I'm a dedicated Software Engineer with 10+ years of experience in crafting accessible and inclusive products and digital experiences for both mobile and web platforms.
 
 ## About Me
 
-With a strong background in mobile app and web development, I've spent the last 6 years focusing on creating solutions for companies in a range of industries including healthcare, consulting, retail, business networks, and government. I've had the privilege of collaborating with startups and big businesses across the US, Canada, and Latin America, helping them achieve their technological goals.
+Spending the last 7 years creating solutions around mobile and web in industries like healthcare, consulting, retail, business network, government, etc.
+For companies around the US, Canada, and Latin America as small as a 7-person health startup 🧑‍⚕️, and as large as worldwide known organizations like the NBA (National Basketball Association) 🏀. 
+I specialize in React, React Native and JavaScript/Typescript.
 
 ## Specializations
 
