@@ -10,12 +10,14 @@ Spending the last 7 years creating solutions around mobile and web in industries
 For companies around the US, Canada, and Latin America as small as a 7-person health startup 🧑‍⚕️, and as large as worldwide known organizations like the NBA (National Basketball Association) 🏀. 
 I specialize in React, React Native and JavaScript/Typescript.
 
-## Specializations
+## What I love to do
 
-- **JavaScript**
-- **TypeScript**
-- **React JS**
+- **Next.js**
+- **Tailwind**
 - **React Native**
+- **React JS**
+- **TypeScript**
+- **JavaScript**
 - **MySQL**
 - **CSS**
 - **Bootstrap**
